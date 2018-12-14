@@ -82,4 +82,5 @@ static struct platform_driver my_leddriver_driver = {
 module_platform_driver(my_leddriver_driver);
 
 MODULE_LICENSE ("GPL");
+MODULE_AUTHOR("SIPAN PAL");
 MODULE_DESCRIPTION ("Simple MUX setting device-tree based driver");
